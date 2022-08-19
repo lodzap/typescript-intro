@@ -45,7 +45,7 @@ console.log(Gato);
 console.log(latino);
 console.log(oriental);
 
-const LeerAlgo = (valora: string, valorb: string) => valora + ' ' + valorb;
+// const LeerAlgo = (valora: string, valorb: string) => valora + ' ' + valorb;
 
 const join = (a:string, b:string) => a + ' ' + b;
 
